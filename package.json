@@ -1,0 +1,12 @@
+{
+  "name": "vaxsport-taekwondo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tienda VAXSPORT TAEKWONDO",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
